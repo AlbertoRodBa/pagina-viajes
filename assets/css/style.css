@@ -22,7 +22,6 @@ p {
 }
 
 nav {
-  background-color: transparent;
   color: white;
   font-family: 'Montserrat'
 }
@@ -34,8 +33,7 @@ nav {
 
 
 .navbar {
-  background-color: #0dcaf0  ; /* color de fondo menu */
-  position: sticky !important;
+  /* background-color: #0dcaf0 ;  color de fondo menu */
   top: 0;
   z-index: 1000; 
 }
