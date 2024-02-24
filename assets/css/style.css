@@ -1,7 +1,6 @@
 body {
-  background-color: rgb(46, 45, 47) !important; 
+  background-color: rgb(20, 20, 20) !important; 
 }
-
 
 p {
   font-family: 'Poppins';
@@ -13,7 +12,6 @@ p {
   color: white;
   padding-top: 2.5rem;
 }
-
 
 .separador {
   color:rgb(100, 200, 216);
@@ -29,7 +27,6 @@ nav {
 .nav-link {
   color: white;
 }
-
 
 .navbar {
   /* background-color: #0dcaf0 ;  color de fondo menu */
