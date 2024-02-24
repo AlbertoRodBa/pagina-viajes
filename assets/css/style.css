@@ -11,7 +11,7 @@ p {
 
 #titulo-blanco {
   color: white;
-  padding-top: 2rem;
+  padding-top: 2.5rem;
 }
 
 
@@ -25,7 +25,6 @@ nav {
   color: white;
   font-family: 'Montserrat'
 }
-
 
 .nav-link {
   color: white;
@@ -79,4 +78,11 @@ nav {
 
 #icono-footer {
   fill: white;
+  margin-top: 1rem;
+}
+
+#titulo-footer {
+  margin-top: 2.5rem;
+  color: white;
+  font-weight: 700;
 }
